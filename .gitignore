@@ -1,0 +1,11 @@
+# Ignore secrets and environment files
+secrets/
+*.env
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
