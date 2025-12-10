@@ -1,4 +1,4 @@
-# Ignore secrets and environment files
+# Ignore secrets and environment files segurti
 secrets/
 *.env
 
